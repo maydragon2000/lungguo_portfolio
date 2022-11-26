@@ -2512,3 +2512,13 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+@media(max-width:500px){
+  .__cf_email__{
+    font-size: 18px;
+  }
+}
+@media(max-width:350px){
+  .top_des{
+    font-size: 18px !important;
+  }
+}

@@ -24,7 +24,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 .icon-search:before {
-  content: "\f002";
+  content: "\e986";
 }
 .icon-heart:before {
   content: "\f004";
